@@ -8,7 +8,7 @@ By Mariana Gamiño
 
 BECAS:MX es un portal en el que monitoreamos medios de comunicación para colectar convocatorias de becas, premios, concursos y oportunidades para cualquier persona que desee superarse. Aquí se puede encontrar información relevante para acceder a un desarrollo profesional más amplio de acuerdo al perfil y aspiraciones de cada quién.
 
-##Test App
+## ¡Entra a la página!
 Puedes acceder a la página haciendo click [aquí](https://becasmx.netlify.com/)
 
 Si quieres acceder a los permisos de administrador, entra con la siguiente cuenta:
