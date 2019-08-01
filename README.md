@@ -26,4 +26,4 @@ Esta página utiliza passport para encriptar contraseñas y autenticar y authori
 
 ## Acknowledgments
 
-Thanks to our TA's and lead teachers for all their patience and help :) :heart:
+Gracias a todos nuestros TA's y Lead Teachers por su ayuda y paciencia :) :heart:
