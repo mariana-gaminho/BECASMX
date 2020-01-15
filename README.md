@@ -1,7 +1,7 @@
 # BECAS:MX
 ![image](frontend/public/Icon.jpg)
 
-## Ironhack Module 3 MERN Full-stack Application
+## MERN Full-stack Application
 By Mariana Gamiño
 
 ## About :smiley:
